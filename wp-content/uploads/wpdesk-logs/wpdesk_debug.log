@@ -1,0 +1,2 @@
+[2024-06-07T11:07:11.518256+00:00] wpdesk.DEBUG: Sender payload: {"click_action":"no","url":"https:\/\/ex.local","localhost":"no","source":{"plugin":"flexible-refund-and-return-order-for-woocommercephp","ctx":"notice"}} {"source":"wpdesk-sender"} []
+[2024-06-07T11:07:12.955218+00:00] wpdesk.DEBUG: Sender response: {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null} {"source":"wpdesk-sender"} []
